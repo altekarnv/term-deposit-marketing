@@ -1,6 +1,5 @@
-# term-deposit-marketings
+# Term Deposit Marketing
 
-# Conclusion
 In this project, we were given the data coming from direct marketing efforts of a European banking institution (Client). The client was interested in developing a robust machine learning system that leverages information coming from the call center data. The marketing campaign involved making a phone call to a client's customer, often multiple times to ensure a product subscription, in this case a term deposit. All customer information that might reveal personal information was removed due to privacy concerns. Ultimately, the client was looking for ways to improve the success rate for calls made to customers for any product that their clients offer. Towards this goal, this project provided a trained machine learning model to predict the success of each marketing call.
 
 ## Data
